@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-AdoteUmPetApplication<adote-um-pet>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.com.treinaweb.adoteumpet.AdoteUmPetApplication",
+            "projectName": "adote-um-pet",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
