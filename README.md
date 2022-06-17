@@ -5,14 +5,14 @@
 <div align="center">
     <h3> 🔵 Com um pequeno valor mensal, você pode adotar um pet virtualmente. 🔵 </h3>
     <a href="https://www.treinaweb.com.br/" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=TreinaWeb&message=Multi-Stack&color=5393f2&style=for-the-badge" target="_blank" alt="Treina Web">
+      <img src="https://img.shields.io/static/v1?label=TreinaWeb&message=Multi-Stack&color=4c43b6&style=for-the-badge" target="_blank" alt="Treina Web">
     </a>
     <a href="https://github.com/PedroCantanhede" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=Author&message=PedroCantanhede&color=5393f2&style=for-the-badge" target="_blank" alt="Pedro Cantanhêde">
+      <img src="https://img.shields.io/static/v1?label=Author&message=PedroCantanhede&color=4c43b6&style=for-the-badge" target="_blank" alt="Pedro Cantanhêde">
     </a>
-    <img src="https://img.shields.io/github/repo-size/PedroCantanhede/Adote-Pet?color=5393f2&style=for-the-badge" alt="Repositório"> 
-    <img src="https://img.shields.io/github/license/PedroCantanhede/Adote-Pet?color=5393f2&style=for-the-badge" alt="Licença">
-    <img src="https://img.shields.io/github/languages/count/PedroCantanhede/Adote-Pet?color=5393f2&style=for-the-badge" alt="Linguagens">
+    <img src="https://img.shields.io/github/repo-size/PedroCantanhede/Adote-Pet?color=4c43b6&style=for-the-badge" alt="Repositório"> 
+    <img src="https://img.shields.io/github/license/PedroCantanhede/Adote-Pet?color=4c43b6&style=for-the-badge" alt="Licença">
+    <img src="https://img.shields.io/github/languages/count/PedroCantanhede/Adote-Pet?color=4c43b6&style=for-the-badge" alt="Linguagens">
 </div>
 
 # Adote um Pet
