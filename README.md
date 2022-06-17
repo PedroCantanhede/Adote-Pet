@@ -1,34 +1,83 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">
+    <img alt="Adote um Pet" title="Adote um Pet" src="github/logo.svg" width="300px" />
+</h1>
 
-## Getting Started
+<div align="center">
+    <h3> 🔵 Com um pequeno valor mensal, você pode adotar um pet virtualmente. 🔵 </h3>
+    <a href="https://www.treinaweb.com.br/" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=TreinaWeb&message=Multi-Stack&color=5393f2&style=for-the-badge" target="_blank" alt="Treina Web">
+    </a>
+    <a href="https://github.com/PedroCantanhede" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=Author&message=PedroCantanhede&color=5393f2&style=for-the-badge" target="_blank" alt="Pedro Cantanhêde">
+    </a>
+    <img src="https://github.com/PedroCantanhede/Adote-Pet.git?color=5393f2&style=for-the-badge" alt="Repositório"> 
+    <img src="https://github.com/PedroCantanhede/Adote-Pet.git?color=5393f2&style=for-the-badge" alt="Licença">
+    <img src="https://github.com/PedroCantanhede/Adote-Pet.git?color=5393f2&style=for-the-badge" alt="Linguagens">
+</div>
 
-First, run the development server:
+# Adote um Pet
+
+O Adote um Pet é uma aplicação realizada na semana Multi-Stack da Treina Web com intuito de criar uma plataforma para adotar seu pet virtualmente contribuindo com um valor mensal.
+
+<p align="center">
+  <img alt="Adote um Pet" src="./github/capa.png" width="100%">
+</p>
+
+# 🔨 Tecnologias
+
+💻 React
+
+💻 NextJS
+
+💻 Axios
+
+💻 TypeScript
+
+💻 NodeJS
+
+💻 Java / Spring
+
+💻 H2 Database
+
+## :camera: Veja:
+
+### Aplicação
+
+![GIF](github/desktop.gif)
+![GIF](github/desktop2.gif)
+![GIF](github/desktop3.gif)
+![GIF](github/desktop4.gif)
+![GIF](github/desktop5.gif)
+![GIF](github/desktop6.gif)
+
+![GIF](github/mobile.gif)
+![GIF](github/mobile2.gif)
+
+## :rocket: Instalação
 
 ```bash
-npm run dev
-# or
-yarn dev
+# Clone o repositório
+$ git clone https://github.com/PedroCantanhede/Adote-Pet.git
+
+# Entre na pasta do projeto
+$ cd pets
+
+# Instale as dependências
+$ npm install / yarn install
+
+# Execute a aplicação no Front na pasta pets
+$ npm run dev / yarn dev
+
+# Abra o projeto na porta: 3000 - acessando: http://localhost:3000
+
+# Execute a aplicação no Back na pasta pets/backend/adote-um-pet
+$ mvn spring-boot:run
+
 ```
+## 🔖 Layout
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Você pode visualizar os desafios do projeto através [desse link](https://treinaweb.notion.site/Multi-stack-03-014eb20e49e44559bc3c74fe7c05acad). É necessário ter conta no [Notion](https://www.notion.so/) para acessá-lo.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+## :infinity: Ajuda da Treina Web
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+A ajuda das aulas disponibilizadas durante a semana e a comunidade dos professores da Treina Web foram essenciais para que eu chegasse no final do projeto. Deixo também meus agradecimentos a toda equipe.

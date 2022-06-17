@@ -2,12 +2,14 @@ import { styled } from '@mui/material';
 
 export const TitleStyled = styled('h1')`
     font-size: 1.25rem;
+    font-family: 'Poppins', sans-serif; 
     text-align: center;
     margin-top: ${({theme}) => theme.spacing(5) };
 `;
 
 export const Subtitle = styled('h2')`
     font-size: 1.12rem;
+    font-family: 'Poppins', sans-serif; 
     text-align: center;
     margin-bottom: ${({theme}) => theme.spacing(5) };
     font-weight: normal;

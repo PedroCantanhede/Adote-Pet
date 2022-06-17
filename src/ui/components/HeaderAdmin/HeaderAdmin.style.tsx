@@ -17,7 +17,15 @@ export const HeaderContainer = styled('header')`
 
     a {
         font-size: 0.9rem;
+        font-family: 'Poppins', sans-serif; 
+        font-weight: 600;
     }
+
+    a:hover {
+        color: #4c43b6;
+        transition: .2s;
+    }
+    
 `;
 
 export const Logo = styled('img')`

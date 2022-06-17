@@ -32,10 +32,12 @@ export const Information = styled('div')`
 `
 
 export const Name = styled('h2')`
+    font-family: 'Poppins', sans-serif; 
     margin: 0;
 `
 
 export const Description = styled('p')`
+    font-family: 'Poppins', sans-serif; 
     margin: 0;
     word-break: break-word;
 `
